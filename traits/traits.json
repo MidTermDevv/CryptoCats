@@ -1,0 +1,28 @@
+{
+  "fur": [
+    { "id": 0, "name": "Tabby", "tier": "common", "weight": 45 },
+    { "id": 1, "name": "Shadow", "tier": "rare", "weight": 30 },
+    { "id": 2, "name": "Galaxy", "tier": "legendary", "weight": 15 },
+    { "id": 3, "name": "Snow", "tier": "common", "weight": 10 }
+  ],
+  "eyes": [
+    { "id": 0, "name": "Amber", "tier": "common", "weight": 50 },
+    { "id": 1, "name": "Laser", "tier": "rare", "weight": 30 },
+    { "id": 2, "name": "Moon", "tier": "legendary", "weight": 20 }
+  ],
+  "accessories": [
+    { "id": 0, "name": "None", "tier": "common", "weight": 60 },
+    { "id": 1, "name": "Cap", "tier": "rare", "weight": 25 },
+    { "id": 2, "name": "Bow", "tier": "legendary", "weight": 15 }
+  ],
+  "expression": [
+    { "id": 0, "name": "Smile", "tier": "common", "weight": 70 },
+    { "id": 1, "name": "Chill", "tier": "rare", "weight": 20 },
+    { "id": 2, "name": "Mystic", "tier": "legendary", "weight": 10 }
+  ],
+  "background": [
+    { "id": 0, "name": "Mint", "tier": "common", "weight": 50 },
+    { "id": 1, "name": "Sunset", "tier": "rare", "weight": 30 },
+    { "id": 2, "name": "Aurora", "tier": "legendary", "weight": 20 }
+  ]
+}

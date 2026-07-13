@@ -1,0 +1,18 @@
+[features]
+default = []
+
+[programs.localnet]
+cryptocats = "11111111111111111111111111111111"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[source.crates-io]
+registry = "sparse"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "cargo test"
