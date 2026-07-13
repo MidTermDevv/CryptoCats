@@ -2,6 +2,8 @@
 
 CryptoCats is a production-oriented Anchor workspace for a hybrid SPL-token and NFT experience built around a Pump.fun-launched $CATS token. The repository contains an on-chain claim program, a deterministic pixel-art renderer, a minimal wallet-facing frontend, deployment scripts, and a test scaffold for validating the core mint-and-claim flow.
 
+X account: [@CTCatsfun](https://x.com/CTCatsfun)
+
 The system is designed to be practical and extensible rather than purely academic. The on-chain program stores claim state in PDAs, records trait outcomes in claim receipts, and is structured so a future production deployment can swap in a verifiable randomness source such as Switchboard VRF and a real NFT metadata pipeline using Metaplex Token Metadata or the Core standard.
 
 ## What this repository includes
