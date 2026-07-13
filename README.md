@@ -2,7 +2,6 @@
 
 <img width="2172" height="724" alt="ChatGPT Image Jul 13, 2026, 10_52_46 PM" src="https://github.com/user-attachments/assets/d8ef98e7-15a4-4dc0-af65-9017edb8c1d2" />
 
-
 CryptoCats is a production-oriented Anchor workspace for a hybrid SPL-token and NFT experience built around a Pump.fun-launched $CATS token. The repository contains an on-chain claim program, a deterministic pixel-art renderer, a minimal wallet-facing frontend, deployment scripts, and a test scaffold for validating the core mint-and-claim flow.
 
 X account: [@CTCatsfun](https://x.com/CTCatsfun)
@@ -19,6 +18,9 @@ The system is designed to be practical and extensible rather than purely academi
 - Anchor tests in [tests/cryptocats.test.ts](tests/cryptocats.test.ts).
 
 ## System overview
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1481fd13-b4c2-4ac6-9857-47ee4e3af147" />
+
 
 CryptoCats follows a layered architecture:
 
