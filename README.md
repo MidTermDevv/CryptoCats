@@ -19,7 +19,7 @@ The system is designed to be practical and extensible rather than purely academi
 
 ## System overview
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1481fd13-b4c2-4ac6-9857-47ee4e3af147" />
+<img width="1254" height="1254" alt="ChatGPT Image Jul 13, 2026, 11_00_12 PM" src="https://github.com/user-attachments/assets/a26a001f-7e27-4d05-8578-f745f713d8ba" />
 
 
 CryptoCats follows a layered architecture:
